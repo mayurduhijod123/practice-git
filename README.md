@@ -1,3 +1,4 @@
 # practice-git
 This is my first repo
-Author- Mayur Duhijod
+Author- Mayur Naresh Duhijod
+ 
